@@ -737,7 +737,7 @@ span:nth-of-type(12) {
 }
 .heart:before {
     display: block;
-    content: 'â¤';
+    content: '❤️';
     animation: wiggle 2s infinite;
     color: #f77;
     transform-origin: center bottom;
