@@ -812,4 +812,7 @@ body {
     height: 100%;
     font-size: 1.25em;
     background: rgba(170, 170, 238, .25);
+    border: -1px;
+    padding: -1px;
+    margin: -1px;
 }
